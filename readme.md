@@ -62,7 +62,8 @@ gocache/
     ```bash
     cd app
     ./frankenphp run
-    ```    The demo application will be available at `http://localhost:8080`.
+    ```    
+    The demo application will be available at `http://localhost:8080`.
 
 ## Current Limitations
 
